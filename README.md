@@ -7,5 +7,5 @@ Entre No Site, Procure A sua Série e Se Divirta :)
 
 ### Site
 ```javascript
-https://apostiladestroyer.netlify.app/#
+https://apostiladestroyer.netlify.app
 ```
