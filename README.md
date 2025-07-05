@@ -9,3 +9,8 @@ Entre No Site, Procure A sua Série e Se Divirta :)
 ```javascript
 https://apostiladestroyer.netlify.app
 ```
+
+### Alternativa. (pra caso o primeiro não funcionar)
+```javascript
+https://crimsonstrauss.xyz/livrodoestudante.php
+```
