@@ -30,3 +30,8 @@ javascript:fetch("https://corsproxy.io/?url=https://raw.githubusercontent.com/Da
 ```javascript
 https://leiasp.cupiditys.lol/
 ```
+
+## Speak
+```javascript
+https://speakify.cupiditys.lol/
+```
