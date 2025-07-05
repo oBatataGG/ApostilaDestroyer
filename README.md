@@ -16,3 +16,8 @@ https://crimsonstrauss.xyz/livrodoestudante.php
 ```
 
 ## Outros Scripts para facilitar as atividades >:)
+
+### Redação (Site)
+```javascript
+https://redacao.cupiditys.lol/
+```
