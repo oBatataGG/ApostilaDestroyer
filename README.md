@@ -14,3 +14,5 @@ https://apostiladestroyer.netlify.app
 ```javascript
 https://crimsonstrauss.xyz/livrodoestudante.php
 ```
+
+## Outros Scripts para facilitar as atividades >:)
