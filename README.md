@@ -25,3 +25,8 @@ https://redacao.cupiditys.lol/
 ```javascript
 javascript:fetch("https://corsproxy.io/?url=https://raw.githubusercontent.com/DarkModde/Dark-Scripts/refs/heads/main/RedaSP-IA.js").then(t=>t.text()).then(eval);
 ```
+
+## Leia SP
+```javascript
+https://leiasp.cupiditys.lol/
+```
