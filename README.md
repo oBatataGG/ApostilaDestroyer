@@ -21,3 +21,7 @@ https://crimsonstrauss.xyz/livrodoestudante.php
 ```javascript
 https://redacao.cupiditys.lol/
 ```
+### Redação (Script)
+```javascript
+javascript:fetch("https://corsproxy.io/?url=https://raw.githubusercontent.com/DarkModde/Dark-Scripts/refs/heads/main/RedaSP-IA.js").then(t=>t.text()).then(eval);
+```
