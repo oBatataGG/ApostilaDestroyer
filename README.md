@@ -35,3 +35,5 @@ https://leiasp.cupiditys.lol/
 ```javascript
 https://speakify.cupiditys.lol/
 ```
+
+# ATENÇÃO!! Nenhum desses scripts são meus ou foram criados por mim!! apenas tento facilitar o uso dos scripts!
