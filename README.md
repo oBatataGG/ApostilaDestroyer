@@ -15,7 +15,7 @@ https://apostiladestroyer.netlify.app
 https://crimsonstrauss.xyz/livrodoestudante.php
 ```
 
-![Testezin](https://pt.wikipedia.org/wiki/Shrek_%28franquia%29#/media/Ficheiro:Shrek(personagem).jpg)
+![Testezin](https://ogimg.infoglobo.com.br/in/25024797-3d1-e8d/FT1086A/shrek.jpg)
 
 
 ## Outros Scripts para facilitar as atividades >:)
